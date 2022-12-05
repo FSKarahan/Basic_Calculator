@@ -1,0 +1,40 @@
+#hesapMakinesi {
+    margin: 0 auto;
+    width: 350px;
+    height: auto;
+    background-color: rgb(72, 20, 192);
+    border-radius: 30px;
+    padding: 10px;
+}
+
+#ekran {
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    background-color: yellow;   
+    border-radius: 30px;
+}
+
+#sonuc {
+    padding: 10px;
+    width: 90%;
+    border: none;
+    border-radius: 30px;
+    text-align: right;
+    font-size: 50px;
+    word-wrap: break-word;
+    background-color: rgb(242, 255, 67);
+}
+
+#sayilar {
+    text-align: center;
+}
+
+button {
+    width: 70px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 5px;
+    background-color: rgb(255, 240, 31);
+    border: none;
+    outline: none;
+}
